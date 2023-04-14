@@ -7,7 +7,7 @@ module MyEnumerable
 
   def any?
     each { |item| return true if yield item } if block_given?
-    each { |item| return true if item }
+    each { |item| return true if item } if !block_given?
     false
   end
 
