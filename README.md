@@ -53,7 +53,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need to have:
 
--IDE
+- IDE
+- Terminal
 
 ### Setup
 
@@ -78,12 +79,12 @@ sh
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Racheal**
 
 - GitHub: [@coderacheal](https://github.com/coderacheal)
 - LinkedIn: [Racheal](https://linkedin.com/in/racheal-appiah-kubi)
 
-👤 **Author2**
+👤 **Larissa**
 
 - GitHub: [@rica213](https://github.com/rica213)
 - LinkedIn: [Larissa](https://linkedin.com/in/larissa-clarielle)
@@ -112,7 +113,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give it a star
+If you like this project please give it a **star**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
